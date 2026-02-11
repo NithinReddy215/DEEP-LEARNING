@@ -4,3 +4,4 @@ Model evaluation metrics added
 Tuning hyperparameters
 Dataset preprocessing updated
 Testing new activation functions
+Final weights saved
